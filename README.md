@@ -1,6 +1,6 @@
 # Spring _tasks_ not boot app. 
 ## You could add, change or delete tasks.
-### Java 17, tomcat 10, docker.
+### Java 17, tomcat 10, docker, mysql 8.
 
  To start in docker: run command `docker-compose up` and go to localhost:8080/root
 
